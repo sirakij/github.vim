@@ -1,6 +1,6 @@
 " ===============================================================
 " github
-" 
+"
 " URL: https://github.com/albertorestifo/github.vim
 " Author: Alberto Restifo &lt;alberto@hike.ninja&gt;
 " License: MIT
@@ -21,10 +21,10 @@ hi CursorIM guibg=#333333 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLine guibg=#f8f8f8 ctermbg=15 gui=NONE cterm=NONE
 hi CursorLineNumber guifg=#a71d5d ctermfg=125 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Directory guifg=#795da3 ctermfg=97 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi DiffAdd guibg=#eaffea ctermbg=255 gui=NONE cterm=NONE
-hi DiffChange guibg=#eaffea ctermbg=255 gui=NONE cterm=NONE
-hi DiffDelete guibg=#ffecec ctermbg=255 gui=NONE cterm=NONE
-hi DiffText guibg=#55a532 ctermbg=71 gui=NONE cterm=NONE
+hi DiffAdd    ctermfg=233 ctermbg=194 guifg=#003300 guibg=#DDFFDD gui=none cterm=none
+hi DiffChange ctermbg=255  guibg=#ececec gui=none   cterm=none
+hi DiffText   ctermfg=233  ctermbg=189  guifg=#000033 guibg=#DDDDFF gui=none cterm=none
+hi DiffDelete ctermfg=252 ctermbg=224   guifg=#DDCCCC guibg=#FFDDDD gui=none    cterm=none
 hi ErrorMsg guifg=#bd2c00 ctermfg=124 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi EndOfBuffer guifg=#d8d8d8 ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi VertSplit guifg=#d8d8d8 ctermfg=188 guibg=#f8f8f8 ctermbg=15 gui=NONE cterm=NONE
