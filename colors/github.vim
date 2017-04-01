@@ -141,6 +141,8 @@ hi yamlBlockMappingKey guifg=#63a35c ctermfg=71 guibg=NONE ctermbg=NONE gui=NONE
 hi yamlKeyValueDelimiter guifg=#63a35c ctermfg=71 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi yamlBlockCollectionItemStart guifg=#333333 ctermfg=236 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 
+hi rubyDefine guifg=#a71d5d ctermfg=97 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+
 let g:terminal_color_foreground = "#333333"
 let g:terminal_color_background = "#ffffff"
 
